@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R ugo+x
+chown -R ugo+X
