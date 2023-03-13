@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -i -e *[az]
+grep -i -e [a-z]*
