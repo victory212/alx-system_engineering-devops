@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -e "root" -c 3
+grep -e "root" -A3
